@@ -36,8 +36,8 @@ def main():
     with nav_col:
         st.header('Navigation')
         # Example navigation items
-        st.write('Item 1')
-        st.write('Item 2')
+        st.write('Cluster')
+        st.write('Visualization')
         st.write('Analysis & Predictions')
 
     # Load data and generate predictions
